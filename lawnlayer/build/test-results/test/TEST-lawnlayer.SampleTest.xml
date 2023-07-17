@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lawnlayer.SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-01T06:00:00" hostname="192-168-1-114.tpgi.com.au" time="0.011">
+  <properties/>
+  <testcase name="simpleTest()" classname="lawnlayer.SampleTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
